@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SYLM.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+592d4d3bf01cc6af2b862dfb8dd67b19f2602642")]
 [assembly: System.Reflection.AssemblyProductAttribute("SYLM.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SYLM.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\bin\Debug\net6.0\SYLM.Temperatura.deps.json
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\bin\Debug\net6.0\SYLM.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\bin\Debug\net6.0\SYLM.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\refint\SYLM.Temperatura.dll
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\SYLM.Temperatura.pdb
+C:\Users\MINEDUCYT\Desktop\Sara\SYLM\SYLM.Temperatura\obj\Debug\net6.0\ref\SYLM.Temperatura.dll
